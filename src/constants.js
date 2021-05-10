@@ -7,5 +7,5 @@
 
 // }
 
-export const SLACK_OAUTH_TOKEN = 'xoxb-1813170155985-2061642914128-UBPI7aBG7B8aHebvEoE7jtYD'
+export const SLACK_OAUTH_TOKEN = 
 export const BOT_SPAM_CHANNEL = '#bot-spam'
