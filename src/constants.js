@@ -7,5 +7,5 @@
 
 // }
 
-export const SLACK_OAUTH_TOKEN = 
+export const SLACK_OAUTH_TOKEN = ''
 export const BOT_SPAM_CHANNEL = '#bot-spam'
